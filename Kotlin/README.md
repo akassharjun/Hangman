@@ -1,3 +1,4 @@
-# Kotlin
+# Hangman for CLI written in Kotlin
 
-Under development - [Akassharjun](https://github.com/akassharjun)
+Status - Done
+By - [Akassharjun](https://github.com/akassharjun)
