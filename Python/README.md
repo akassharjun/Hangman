@@ -1,3 +1,3 @@
 # Python
 
-Open an issue to claim this
+Contributor - [Visal](https://github.com/v15a1)
