@@ -1,3 +1,3 @@
 # Java
 
-Open an issue to claim this
+Contributor - [Dinuka](https://github.com/DinDev3)
